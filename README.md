@@ -126,3 +126,9 @@ cd frontend && npm test
 ```
 
 GitHub Actions runs Ruff, pytest, ESLint, Prettier, and Vitest.
+
+## Related projects
+
+- [BookNook editorial desk](https://github.com/MiladGhorbaniG/multi-agent-workflow) — planner, researcher, writer, and reviewer
+- [BookNook Telegram desk](https://github.com/MiladGhorbaniG/telegram-miniapp-starter) — Mini App, mock membership, and FAQ bot
+- [Introduction to carried out projects](https://github.com/MiladGhorbaniG/Introduction-to-carried-out-projects) — earlier work, plus the other public repositories
