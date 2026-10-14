@@ -1,0 +1,22 @@
+[
+  {
+    "id": "late-fee",
+    "question": "What is the late fee after seven days?",
+    "document_id": "membership"
+  },
+  {
+    "id": "mystery-aisle",
+    "question": "Where do mystery novels stay?",
+    "document_id": "shelving-guide"
+  },
+  {
+    "id": "lectern",
+    "question": "Which excerpt sits on the classics lectern?",
+    "document_id": "classics-lectern"
+  },
+  {
+    "id": "umbrellas",
+    "question": "Where do the umbrellas stand?",
+    "document_id": "rainy-day-shelf"
+  }
+]
